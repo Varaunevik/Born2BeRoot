@@ -21,7 +21,7 @@
 - `ssh your_user_id@127.0.0.1 -p 4242` - do this in terminal to show that SSH to port 4242 is working
 - `cd /usr/local/bin` – to show monitoring.sh
 - `sudo crontab -u root -e` – to edit the cron job
-- `change script to */1 * * * * sleep 30s && script path` – to run it every 30 seconds, delete the line to stop the job from running.
+- `change script to */1 * * * * script path` – to run it every 1 minute.
 
 **CHAGE:**
 
