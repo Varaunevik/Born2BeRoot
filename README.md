@@ -1,6 +1,6 @@
 # Born2beRoot
 
-*The main goal for this project is to create a virtual machine using “Virtual Box”.*
+*The main goal for this project is to create a virtual machine using “VMware fusion”.*
 
 ## Okay, but what even is a virtual machine??
 
