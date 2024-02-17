@@ -2,18 +2,6 @@
 
 *The main goal for this project is to create a virtual machine using “Virtual Box”.*
 
-[B2BRoot eval](https://www.notion.so/B2BRoot-eval-a08e75249cf34256a93be7f9bf72ccc8?pvs=21)
-
-[Commands](https://www.notion.so/Commands-5f8647a4bd904383b8fc08599f03b9d3?pvs=21)
-
-[Script explained](https://www.notion.so/Script-explained-f005a499d407413bb67eb7618481c71b?pvs=21)
-
-Current key:
-
-92d46c424d48674ee828d93ce2e738e5e5a41633
-
-[Sleep.sh](https://www.notion.so/Sleep-sh-29856e18aa6d4c839876d1c76ea6c359?pvs=21)
-
 ## Okay, but what even is a virtual machine??
 
 **In short - a virtual machine (VM) is a machine inside your machine.**
